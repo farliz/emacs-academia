@@ -1,10 +1,9 @@
 # Emacs-Academia 
-## GNU/Liux Trisquel 7
-### Desde cero
+## En GNU/Linux Trisquel 7
 
 Una serie de videos que te mostrarán de forma práctica y simple, como utilizar Emacs para la producción de documentos académicos. En esta primera entrega, aprenderás lo basico de Emacs.
 
-No es una introducción técnica, es una introducción práctica. 
+No es una introducción técnica, es una introducción práctica para quienes que no sepan nada de programación. Se recomienda utilizar el sistema operativo GNU/Linux Trisquel 7.
 
 Los videos son cortos y descargables, no los he subido a ninguna web como youtube o similares. Si de verdad quieres aprender Emacs, descarga los videos y a practicar.
 
