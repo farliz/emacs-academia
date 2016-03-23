@@ -9,3 +9,5 @@ La siguiente lista, contiene los links para descargar los videos.
 - [init.el / configuración de Emacs](https://www.dropbox.com/s/7z3w4yi56yawdq2/emacs7.webm?dl=0)
 - [Mas configuración](https://www.dropbox.com/s/ee4eufy13doid2x/emacs8.webm?dl=0)
 - [Linea de modo](https://www.dropbox.com/s/ttsfaerjd8gzvn2/emacs9.webm?dl=0)
+- [Buscar palabras en un texto](https://www.dropbox.com/s/kt9gfh7eueic4r2/emacs10.webm?dl=0)
+- []()
