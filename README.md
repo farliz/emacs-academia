@@ -1,5 +1,6 @@
-# Emacs-Academia
-## Desde cero
+# Emacs-Academia 
+## GNU/Liux Trisquel 7
+### Desde cero
 
 Una serie de videos que te mostrarán de forma práctica y simple, como utilizar Emacs para la producción de documentos académicos. En esta primera entrega, aprenderás lo basico de Emacs.
 
