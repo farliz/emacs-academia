@@ -2,7 +2,7 @@
 
 Una serie de videos que te mostraran de forma práctica y simple, como utilizar Emacs para la producción de documentos académicos.
 
-No es una introducción técnica, es una introducción práctica.
+No es una introducción técnica, es una introducción práctica. 
 
 # Antes de Empezar #
 
