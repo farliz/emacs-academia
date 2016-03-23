@@ -46,3 +46,5 @@ Emacs es Software Libre, y por tanto respeta tus libertades como usuario.
 
 Mas información
 [EmacsWiki](https://www.emacswiki.org/)
+
+# [Contenido](https://github.com/farliz/emacs-academia/blob/master/contenido.md)
