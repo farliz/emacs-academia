@@ -5,7 +5,7 @@ Una serie de videos que te mostrarán de forma práctica y simple, como utilizar
 
 No es una introducción técnica, es una introducción práctica para quienes que no sepan nada de programación. Se recomienda utilizar el sistema operativo GNU/Linux Trisquel 7.
 
-Los videos son cortos y descargables, no los he subido a ninguna web como youtube o similares. Si de verdad quieres aprender Emacs, descarga los videos y a practicar.
+Los videos son cortos y descargables. Si de verdad quieres aprender Emacs, descarga los videos y a practicar. Recomiendo que veas los videos en pantalla completa y luego hagas los ejercicios.
 
 # Antes de Empezar #
 
