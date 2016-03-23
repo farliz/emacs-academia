@@ -1,4 +1,4 @@
-La suiguiente lista, contiene los links para descargar los videos.
+La siguiente lista, contiene los links para descargar los videos.
 
 - [Introduccion](https://www.dropbox.com/s/uj5uhs3wruwy18v/emacs1.webm?dl=0)
 - [Buffers 1](https://www.dropbox.com/s/a9ysepmpoobknr7/emacs2.webm?dl=0)
