@@ -34,9 +34,8 @@ poco a poco a utilizarlo y a acostumbrarte usar el teclado.
 Gracias a Emacs he aprendido mucho sobre informática y he mejorado mi
 rendimiento con el teclado, aunque lo cierto es que el teclado sigue siendo un
 desafío para mi. Sin embargo, lo mas importante es que el flujo de trabajo que llevo
-ahora es mucho mas eficiente y divertido que hace algunos años. Soy un
-académico y utilizo Emacs para editar documentos de texto, como artículos,
-manuales, exámenes, además hacer scripts, navegar por los directorios,
+ahora es mucho mas eficiente y divertido que hace algunos años. Utilizo Emacs para editar
+documentos de texto, como artículos,manuales, exámenes, además hacer scripts, navegar por los directorios,
 manipular archivos, revisar correos y noticias entre otras cosas. Emacs es fascinante!
 
 Al usar Emacs pasas a formar parte de una gran comunidad de usuarios y
