@@ -1,3 +1,11 @@
 La suiguiente lista, contiene los links para descargar los videos.
 
 - [Introduccion](https://www.dropbox.com/s/uj5uhs3wruwy18v/emacs1.webm?dl=0)
+- [Buffers 1](https://www.dropbox.com/s/a9ysepmpoobknr7/emacs2.webm?dl=0)
+- [Primeros comandos 1](https://www.dropbox.com/s/if624elr4afctb2/emacs3.webm?dl=0)
+- [Primeros comandos 2](https://www.dropbox.com/s/o58b2s4cckjacgo/emacs4.webm?dl=0)
+- [Modos mayores / Buffers](https://www.dropbox.com/s/mmzq5q1cqlgkws0/emacs5.webm?dl=0)
+- [Mini buffer / configuración de emacs](https://www.dropbox.com/s/yvqwbzzlbrjze4j/emacs6.webm?dl=0)
+- [init.el / configuración de Emacs](https://www.dropbox.com/s/7z3w4yi56yawdq2/emacs7.webm?dl=0)
+- [Mas configuración](https://www.dropbox.com/s/ee4eufy13doid2x/emacs8.webm?dl=0)
+- []
