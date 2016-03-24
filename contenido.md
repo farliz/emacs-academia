@@ -13,3 +13,4 @@ La siguiente lista, contiene los links para descargar los videos.
 - [Buscar palabras en un texto](https://www.dropbox.com/s/kt9gfh7eueic4r2/emacs10.webm?dl=0)
 - [Buscar y reemplazar](https://www.dropbox.com/s/tf7lpdll1mk1lqh/emacs11.webm?dl=0)
 - [Importante](https://www.dropbox.com/s/w8rcrk6vm9spuij/emacs12.webm?dl=0)
+- [ido-mode](https://www.dropbox.com/s/w6omtg08czvdr7p/emacs13.webm?dl=0)
