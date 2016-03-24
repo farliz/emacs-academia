@@ -15,4 +15,5 @@ La siguiente lista, contiene los links para descargar los videos.
 - [Importante](https://www.dropbox.com/s/w8rcrk6vm9spuij/emacs12.webm?dl=0)
 - [ido-mode](https://www.dropbox.com/s/w6omtg08czvdr7p/emacs13.webm?dl=0)
 - [customize](https://www.dropbox.com/s/uopf65pe16lfsko/emacs14.webm?dl=0)
+- [COPIAR / CORTAR / PEGAR / DESHACER](https://www.dropbox.com/s/ch6k26i9m2dyybg/emacs16.webm?dl=0)
 - [instalar paquetes (plugins)](https://www.dropbox.com/s/w5z37zx73006zh7/emacs15.webm?dl=0)
