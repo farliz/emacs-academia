@@ -20,6 +20,7 @@ La siguiente lista, contiene los links para descargar los videos.
 17. [helm-mode](https://www.dropbox.com/s/jtomyodfe37xevx/emacs17.webm?dl=0)
 18. [MOVIMIENTOS ESENCIALES](https://www.dropbox.com/s/5um93t36wxp07n0/emacs18.webm?dl=0)
 19. [COPIAR y PEGAR II](https://www.dropbox.com/s/p5tnsugb7suypjo/emacs19.webm?dl=0)
+20. [Modos menores / auto-fill-mode](https://www.dropbox.com/s/smtiyof5ddxvb65/emacs20.webm?dl=0)
 
 ## Edición de texto
 Pronto estarán los videos de esta sección
