@@ -29,7 +29,7 @@ Hay muchos que dicen que para utilizar Emacs hay que ser prácticamente un pulpo
 para lidiar con tantas combinaciones de teclas y que el autor del propio
 programa se lesiono la mano alguna vez. No te dejes llevar por ese tipo de
 comentarios que encontrarás en los foros, en esta serie de videos iras aprendiendo 
-poco a poco a utilizarlo y a acostumbrarte usar el teclado.
+poco a poco a utilizarlo.
 
 Gracias a Emacs he aprendido mucho sobre informática y he mejorado mi
 rendimiento con el teclado, aunque lo cierto es que el teclado sigue siendo un
