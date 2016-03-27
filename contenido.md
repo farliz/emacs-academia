@@ -1,5 +1,5 @@
 La siguiente lista, contiene los links para descargar los videos.
-
+## Emacs Básico
 1. [Introduccion](https://www.dropbox.com/s/uj5uhs3wruwy18v/emacs1.webm?dl=0)
 2. [Buffers 1](https://www.dropbox.com/s/a9ysepmpoobknr7/emacs2.webm?dl=0)
 3. [Primeros comandos 1](https://www.dropbox.com/s/if624elr4afctb2/emacs3.webm?dl=0)
@@ -18,6 +18,8 @@ La siguiente lista, contiene los links para descargar los videos.
 15. [instalar paquetes (plugins)](https://www.dropbox.com/s/w5z37zx73006zh7/emacs15.webm?dl=0)
 16. [COPIAR / CORTAR / PEGAR / DESHACER](https://www.dropbox.com/s/ch6k26i9m2dyybg/emacs16.webm?dl=0)
 18. [helm-mode](https://www.dropbox.com/s/jtomyodfe37xevx/emacs17.webm?dl=0)
+
+## Edición de texto
 
 ## Descargar todos los videos
 Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
