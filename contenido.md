@@ -17,3 +17,12 @@ La siguiente lista, contiene los links para descargar los videos.
 - [customize](https://www.dropbox.com/s/uopf65pe16lfsko/emacs14.webm?dl=0)
 - [instalar paquetes (plugins)](https://www.dropbox.com/s/w5z37zx73006zh7/emacs15.webm?dl=0)
 - [COPIAR / CORTAR / PEGAR / DESHACER](https://www.dropbox.com/s/ch6k26i9m2dyybg/emacs16.webm?dl=0)
+- 
+## Descargar todos los videos
+Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
+
+
+1. mkdir emacs-videos && cd emacs-videos
+2. wget https://github.com/farliz/emacs-academia/blob/master/contenido.md 
+3. grep -Eo '(http|https)://.+webm' contenido.md > videos.txt
+4. wget -i videos.txt
