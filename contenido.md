@@ -17,7 +17,7 @@ La siguiente lista, contiene los links para descargar los videos.
 - [customize](https://www.dropbox.com/s/uopf65pe16lfsko/emacs14.webm?dl=0)
 - [instalar paquetes (plugins)](https://www.dropbox.com/s/w5z37zx73006zh7/emacs15.webm?dl=0)
 - [COPIAR / CORTAR / PEGAR / DESHACER](https://www.dropbox.com/s/ch6k26i9m2dyybg/emacs16.webm?dl=0)
-- 
+
 ## Descargar todos los videos
 Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
 
