@@ -20,7 +20,7 @@ La siguiente lista, contiene los links para descargar los videos.
 18. [helm-mode](https://www.dropbox.com/s/jtomyodfe37xevx/emacs17.webm?dl=0)
 
 ## Edición de texto
-
+Pronto estarán los videos de esta sección
 ## Descargar todos los videos
 Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
 
