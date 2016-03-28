@@ -23,6 +23,9 @@ La siguiente lista, contiene los links para descargar los videos.
 20. [Modos menores / auto-fill-mode](https://www.dropbox.com/s/smtiyof5ddxvb65/emacs20.webm?dl=0)
 21. [solarized-theme / Opcional](https://www.dropbox.com/s/9zk5jcf9jp4b8b0/emacs21.webm?dl=0)
 
+Al finalizar esta sección, estarán en capacidad de seguir y entender la siguiente guía.
+[Emacs for writers](http://therandymon.com/papers/emacs-for-writers.pdf)
+
 ## Edición de texto
 Pronto estarán los videos de esta sección
 ## Descargar todos los videos
