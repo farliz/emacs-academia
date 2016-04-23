@@ -1,5 +1,5 @@
 La siguiente lista, contiene los links para descargar los videos.
-## Emacs Básico
+## Parte 1 Emacs Básico
 1. [Introduccion](https://www.dropbox.com/s/uj5uhs3wruwy18v/emacs1.webm?dl=0)
 2. [Buffers 1](https://www.dropbox.com/s/a9ysepmpoobknr7/emacs2.webm?dl=0)
 3. [Primeros comandos 1](https://www.dropbox.com/s/if624elr4afctb2/emacs3.webm?dl=0)
@@ -26,7 +26,7 @@ La siguiente lista, contiene los links para descargar los videos.
 Al finalizar esta sección, estarán en capacidad de seguir y entender la siguiente guía.
 [Emacs for writers](http://therandymon.com/papers/emacs-for-writers.pdf)
 
-## Edición de texto
+## Parte 2 
 1. [Zotero](https://www.dropbox.com/s/fk8rw111sl91cq2/zotero.webm?dl=0)
 ## Descargar todos los videos
 Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
