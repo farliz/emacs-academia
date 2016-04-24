@@ -33,7 +33,7 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 4. [AucTeX y RefTeX](https://www.dropbox.com/s/mdlv9nxl04raswz/emacs25.webm?dl=0)
 5. [Zotero](https://www.dropbox.com/s/fk8rw111sl91cq2/zotero.webm?dl=0)
 6. [LeTeX demo](https://www.dropbox.com/s/1pbo3oxt5oagvb9/emacs26.webm?dl=0)
-   - [Archivo](https://www.dropbox.com/s/0ibsirx4a65eq17/tutorial.zip?dl=0) 
+  - [Archivo](https://www.dropbox.com/s/0ibsirx4a65eq17/tutorial.zip?dl=0) 
 ## Descargar todos los videos
 Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
 
