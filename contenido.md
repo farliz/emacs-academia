@@ -30,7 +30,7 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 1. [Corrección ortográfica 1](https://www.dropbox.com/s/7quxb7x4lwx61t0/emacs22.webm?dl=0)
 2. [Corrección ortográfica 2](https://www.dropbox.com/s/rr4sa9cewbr1h7d/emacs23.webm?dl=0)
 3. [BibTeX](https://www.dropbox.com/s/b4t3lwoewub4i4e/emacs24.webm?dl=0)
-4. [AucTeX y RefTeX](https://www.dropbox.com/s/mdlv9nxl04raswz/emacs25.webm?dl=0)
+4. [AucTeX y RefTeX instalación](https://www.dropbox.com/s/mdlv9nxl04raswz/emacs25.webm?dl=0)
 5. [Zotero](https://www.dropbox.com/s/fk8rw111sl91cq2/zotero.webm?dl=0)
 6. [LaTeX demo](https://www.dropbox.com/s/1pbo3oxt5oagvb9/emacs26.webm?dl=0)
   - [Archivo](https://www.dropbox.com/s/0ibsirx4a65eq17/tutorial.zip?dl=0) 
