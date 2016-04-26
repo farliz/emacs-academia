@@ -37,11 +37,3 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
   
   
 
-## Descargar todos los videos
-Para descaragar todos los videos, deben ejecutar las siguientes lineas en una terminal
-
-
-1. mkdir emacs-videos && cd emacs-videos
-2. wget https://github.com/farliz/emacs-academia/blob/master/contenido.md 
-3. grep -Eo '(http|https)://.+webm' contenido.md > videos.txt
-4. wget -i videos.txt
