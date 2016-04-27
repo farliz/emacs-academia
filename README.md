@@ -27,7 +27,7 @@ momento de tomar la decisión de utilizarlo o abandonarlo.
 
 Hay muchos que dicen que para utilizar Emacs hay que ser prácticamente un pulpo
 para lidiar con tantas combinaciones de teclas y que el autor del propio
-programa se lesiono la mano alguna vez. No te dejes llevar por ese tipo de
+programa se lesionó la mano alguna vez. No te dejes llevar por ese tipo de
 comentarios que encontrarás en los foros, en esta serie de videos iras aprendiendo 
 poco a poco a utilizarlo.
 
