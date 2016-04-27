@@ -48,5 +48,6 @@ Para descargar todos los videos pueden ejecutar las siguientes lineas en una ter
 
 3. wget -i videos.txt
 
-
+## Canal en mediagoblin
+[https://goblinrefuge.com](https://goblinrefuge.com/mediagoblin/u/farliz/)
 
