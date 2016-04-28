@@ -38,6 +38,7 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 8. [Evaluar código LISP C-x C-e](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8842/emacs27.webm)
 9. [Configuración Final](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8885/emacs28.webm)
 10. [Edición del texto](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8911/emacs29.webm)
+11. [Edición de texto II](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8915/emacs30.webm)
    
 
 ## Descargar todo
