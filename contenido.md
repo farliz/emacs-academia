@@ -40,6 +40,8 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 10. [Edición del texto](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8911/emacs29.webm)
 11. [Edición de texto II](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8915/emacs30.webm)
 12. [Formato I](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8916/emacs31.webm)
+13. [Markdown](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8917/emacs32.webm)
+14. [ConTeX](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8918/emacs33.webm)
    
 
 ## Descargar todo
