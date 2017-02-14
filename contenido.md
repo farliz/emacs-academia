@@ -1,5 +1,5 @@
 La siguiente lista, contiene los links para descargar los videos.
-## Parte 1 Emacs Básico
+## Parte 1: Emacs Básico
 1. [Introducción](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8787/emacs1.webm)
 2. [Buffers 1](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8807/emacs2.webm)
 3. [Primeros comandos 1](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8808/emacs3.webm)
