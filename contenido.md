@@ -44,7 +44,8 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 13. [Markdown](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8917/emacs32.webm)
 14. [ConTeX](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8919/emacs33.webm)
  - [PDF](https://cloud.openmailbox.org/index.php/s/iFRESi5QDkT6SXJ)
-   
+15. [Helm-bibtex](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13066/helm-bibtex.medium.webm)
+16. [export-to-pdf](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/11660/emacs-pdf.medium.webm)
 
 ## Descargar todo
 Para descargar todos los videos pueden ejecutar las siguientes lineas en una terminal.
