@@ -1,11 +1,11 @@
 # Emacs-Academia 
-## En GNU/Linux Trisquel 7
+## En GNU/Linux Trisquel
 
-Una serie de videos que te mostrarán de forma práctica y simple, como utilizar Emacs para la producción de documentos académicos. En esta primera entrega, aprenderás lo basico de Emacs.
+Una serie de videos que te mostrarán de forma práctica y simple, como utilizar Emacs para la producción de documentos académicos. En esta primera entrega, aprenderás lo básico de Emacs.
 
-No es una introducción técnica, es una introducción práctica para quienes que no sepan nada de programación. Se recomienda utilizar el sistema operativo GNU/Linux Trisquel 7.
+No es una introducción técnica, es una introducción práctica para quienes que no sepan nada de programación. Se recomienda utilizar el sistema operativo GNU/Linux Trisquel.
 
-Los videos son cortos y descargables. Si de verdad quieres aprender Emacs, descarga los videos y a practicar. Recomiendo que veas los videos en pantalla completa y luego hagas los ejercicios.
+Los videos son cortos y descargables. Si de verdad quieres aprender Emacs, descarga los videos y a practicar!. Recomiendo que veas los videos en pantalla completa y luego hagas los ejercicios.
 
 # Antes de Empezar #
 
@@ -18,10 +18,10 @@ todo cobra sentido. Lo mas raro en Emacs, son los **buffers**, podríamos por
 ahora decir que los buffers son los archivos que estamos editando, por ejemplo
 si abrimos dos archivos, entonces decimos que tenemos dos buffers abiertos.
 
-El mejor amigo de Emacs es el teclado, y creo que esa es la razón mas influyente al
+El mejor amigo de Emacs es el teclado, --lo parece difícil al inicio-- y creo que esa es la razón mas influyente al
 momento de tomar la decisión de utilizarlo o abandonarlo.
 
-Utilizo Emacs para editar documentos de texto, como artículos,manuales, exámenes, además hacer scripts, navegar por los directorios,manipular archivos, revisar correos y noticias entre otras cosas. Emacs es fascinante!
+Utilizo Emacs para editar documentos de texto, como artículos, manuales, exámenes, hacer scripts, navegar por los directorios, revisar correos y noticias entre otras cosas. Emacs es fascinante!
 
 Al usar Emacs pasas a formar parte de una gran comunidad de usuarios y
 desarrolladores de Emacs, quienes comparten libremente sus conocimientos
