@@ -27,34 +27,34 @@ Al finalizar esta sección, estarán en capacidad de seguir y entender la siguie
 [Emacs for writers](http://therandymon.com/papers/emacs-for-writers.pdf)
 
 ## Parte 2 
-1. [Corrección ortográfica 1](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8829/emacs22.webm)
-2. [Corrección ortográfica 2](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8830/emacs23.webm)
-3. [BibTeX](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8831/emacs24.webm)
-4. [AucTeX y RefTeX instalación](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8833/emacs25.webm)
-5. [Zotero](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8834/zotero.webm)
-6. [LaTeX demo](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8836/emacs26.webm)
+1. [Corrección ortográfica 1](https://goblinrefuge.com/mediagoblin/u/farliz/m/22-correccion-ortografica/)
+2. [Corrección ortográfica 2](https://goblinrefuge.com/mediagoblin/u/farliz/m/23-correccion-ortografica-ii/)
+3. [BibTeX](https://goblinrefuge.com/mediagoblin/u/farliz/m/24-bibtex/)
+4. [AucTeX y RefTeX instalación](https://goblinrefuge.com/mediagoblin/u/farliz/m/25-instalacion-de-auctex-y-reftex/)
+5. [Zotero](https://goblinrefuge.com/mediagoblin/u/farliz/m/zotero/)
+6. [LaTeX demo](https://goblinrefuge.com/mediagoblin/u/farliz/m/26-demostracion-de-emacs-y-latex/)
    - [Archivo](https://www.dropbox.com/s/0ibsirx4a65eq17/tutorial.zip?dl=0)
-7. [Movimientos esenciales II](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8841/emacs26.webm)
-8. [Evaluar código LISP C-x C-e](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8842/emacs27.webm)
-9. [Configuración Final](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8885/emacs28.webm)
-10. [Edición del texto](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8911/emacs29.webm)
-11. [Edición de texto II](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8915/emacs30.webm)
-12. [Formato I](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8916/emacs31.webm)
+7. [Movimientos esenciales II](https://goblinrefuge.com/mediagoblin/u/farliz/m/26-movimientos-esenciales-ii/)
+8. [Evaluar código LISP C-x C-e](https://goblinrefuge.com/mediagoblin/u/farliz/m/27-evaluar-codigo-lisp/)
+9. [Configuración Final](https://goblinrefuge.com/mediagoblin/u/farliz/m/28-configuracion-final/)
+10. [Edición del texto](https://goblinrefuge.com/mediagoblin/u/farliz/m/29-edicion-del-texto/)
+11. [Edición de texto II](https://goblinrefuge.com/mediagoblin/u/farliz/m/30-edicion-de-texto-ii/)
+12. [Formato I](https://goblinrefuge.com/mediagoblin/u/farliz/m/31-formato-basico/)
    - Corrección: En este video cuando digo C-h, quiero decir M-h
-13. [Markdown](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8917/emacs32.webm)
-14. [ConTeX](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/8919/emacs33.webm)
+13. [Markdown](https://goblinrefuge.com/mediagoblin/u/farliz/m/32-markdown/)
+14. [ConTeX](https://goblinrefuge.com/mediagoblin/u/farliz/m/33-introduccion-a-contex-47de/)
  - [PDF](https://cloud.openmailbox.org/index.php/s/iFRESi5QDkT6SXJ)
-15. [Helm-bibtex](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13066/helm-bibtex.medium.webm)
-16. [export-to-pdf](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/11660/emacs-pdf.medium.webm)
+15. [Helm-bibtex](https://goblinrefuge.com/mediagoblin/u/farliz/m/helm-bibtex/)
+16. [export-to-pdf](https://goblinrefuge.com/mediagoblin/u/farliz/m/34-emacs-pdf/)
 
 ## Curso Básico de ConTeXt
-1.[Instalación](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13173/context_1.webm)
+1.[Instalación](https://goblinrefuge.com/mediagoblin/u/farliz/m/instalacion-de-context/)
 
-2.[Presentación](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13174/context-presentacion.webm)
+2.[Presentación](https://goblinrefuge.com/mediagoblin/u/farliz/m/presentacion-en-context/)
 
-3.[simpleslides](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13175/context-extra1.webm)
+3.[simpleslides](https://goblinrefuge.com/mediagoblin/u/farliz/m/manual-de-simpleslides/)
 
-4.[Manual de ConTeXt ](https://b2aeaa58a57a200320db-8b65b95250e902c437b256b5abf3eac7.ssl.cf5.rackcdn.com/media_entries/13176/context-ayuda.webm)
+4.[Manual de ConTeXt ](https://goblinrefuge.com/mediagoblin/u/farliz/m/manual-de-context/)
 
 ## Descargar todo
 Para descargar todos los videos pueden ejecutar las siguientes lineas en una terminal.
