@@ -1,4 +1,9 @@
 La siguiente lista, contiene los links para descargar los videos.
+
+**Los videos se encuentran ahora en otra plataforma. Dejo el enlace aquí:**
+https://www.youtube.com/channel/UCHvLRFAPdvqdRUlod2dwFXw
+Actualizaré los enlaces en los próximos días.
+
 ## Parte 1: Emacs Básico
 1. [Introducción](https://goblinrefuge.com/mediagoblin/u/farliz/m/intro/)
 2. [Buffers 1](https://goblinrefuge.com/mediagoblin/u/farliz/m/buffers-1/)
